@@ -22,3 +22,4 @@ MSSQL Server MCP implementation written in C#
 // match the style used in the rest of the module
 // handle the edge case from the last release
 // clarify the control flow
+// guard against empty input
