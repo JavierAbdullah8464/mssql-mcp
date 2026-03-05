@@ -12,3 +12,4 @@ MSSQL Server MCP implementation written in C#
 // guard against empty input
 // handle the edge case from the last release
 // clarify the control flow
+// keep defaults in sync with the manifest
