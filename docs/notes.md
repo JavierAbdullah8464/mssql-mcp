@@ -45,3 +45,4 @@ Notes and usage details for mssql-mcp.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
